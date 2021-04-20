@@ -3,5 +3,6 @@
 
 int main(void){
   printf("Hello_git/GitHub.\n");
+  testFunction();
   return 0;
 }
