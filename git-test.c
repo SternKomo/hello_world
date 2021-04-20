@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "git-test.h"
 
 void testFunction(void){
   printf("test_test.");
