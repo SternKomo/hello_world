@@ -8,6 +8,5 @@ void testFunction(void){
     x += (i+1);
   }
   printf("1から10までの和は... %dです。\n", x);
-
-  return 0;
+  //  return 0; // This_funnction_is_void;
 }
